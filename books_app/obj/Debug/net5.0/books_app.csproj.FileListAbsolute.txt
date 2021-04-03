@@ -1,0 +1,16 @@
+C:\Users\Brandon\C#\books_app\obj\Debug\net5.0\books_app.csprojAssemblyReference.cache
+C:\Users\Brandon\C#\books_app\obj\Debug\net5.0\books_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon\C#\books_app\obj\Debug\net5.0\books_app.AssemblyInfoInputs.cache
+C:\Users\Brandon\C#\books_app\obj\Debug\net5.0\books_app.AssemblyInfo.cs
+C:\Users\Brandon\C#\books_app\obj\Debug\net5.0\books_app.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\C#\books_app\bin\Debug\net5.0\books_app.exe
+C:\Users\Brandon\C#\books_app\bin\Debug\net5.0\books_app.deps.json
+C:\Users\Brandon\C#\books_app\bin\Debug\net5.0\books_app.runtimeconfig.json
+C:\Users\Brandon\C#\books_app\bin\Debug\net5.0\books_app.runtimeconfig.dev.json
+C:\Users\Brandon\C#\books_app\bin\Debug\net5.0\books_app.dll
+C:\Users\Brandon\C#\books_app\bin\Debug\net5.0\ref\books_app.dll
+C:\Users\Brandon\C#\books_app\bin\Debug\net5.0\books_app.pdb
+C:\Users\Brandon\C#\books_app\obj\Debug\net5.0\books_app.dll
+C:\Users\Brandon\C#\books_app\obj\Debug\net5.0\ref\books_app.dll
+C:\Users\Brandon\C#\books_app\obj\Debug\net5.0\books_app.pdb
+C:\Users\Brandon\C#\books_app\obj\Debug\net5.0\books_app.genruntimeconfig.cache
