@@ -13,6 +13,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Data;
+using System.Data.SqlClient;
 
 namespace gp_surgery
 {
@@ -21,11 +23,31 @@ namespace gp_surgery
     /// </summary>
     public partial class MainWindow : Window
     {
+        SqlConnection SQLConnection;
+        SqlDataAdapter dataAdapter;
+
         public MainWindow()
         {
             InitializeComponent();
 
             string connectionString = ConfigurationManager.ConnectionStrings["gp_surgery.Properties.Settings.gp_surgeryConnectionString"].ConnectionString;
+            SQLConnection = new SqlConnection(connectionString);
+            showDefaultData();
+
+        }
+        private void showDefaultData()
+        {
+            string query = "SELECT * from patient_information";
+            dataAdapter = new SqlDataAdapter(query, SQLConnection);
+
+            using (dataAdapter)
+            {
+                DataTable table = new DataTable();
+                dataAdapter.Fill(table);
+                infoTable.DisplayMemberPath = "Forename";
+                infoTable.SelectedValuePath = "Id";
+                infoTable.ItemsSource = table.DefaultView;
+            }
         }
     }
 }
