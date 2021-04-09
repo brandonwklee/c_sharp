@@ -1,0 +1,15 @@
+C:\Users\Brandon\C#\gp_surgery\obj\Debug\gp_surgery.csprojAssemblyReference.cache
+C:\Users\Brandon\C#\gp_surgery\obj\Debug\MainWindow.g.cs
+C:\Users\Brandon\C#\gp_surgery\obj\Debug\App.g.cs
+C:\Users\Brandon\C#\gp_surgery\obj\Debug\gp_surgery_MarkupCompile.cache
+C:\Users\Brandon\C#\gp_surgery\obj\Debug\gp_surgery_MarkupCompile.lref
+C:\Users\Brandon\C#\gp_surgery\bin\Debug\gp_surgery.exe.config
+C:\Users\Brandon\C#\gp_surgery\bin\Debug\gp_surgery.exe
+C:\Users\Brandon\C#\gp_surgery\bin\Debug\gp_surgery.pdb
+C:\Users\Brandon\C#\gp_surgery\obj\Debug\MainWindow.baml
+C:\Users\Brandon\C#\gp_surgery\obj\Debug\gp_surgery.g.resources
+C:\Users\Brandon\C#\gp_surgery\obj\Debug\gp_surgery.Properties.Resources.resources
+C:\Users\Brandon\C#\gp_surgery\obj\Debug\gp_surgery.csproj.GenerateResource.cache
+C:\Users\Brandon\C#\gp_surgery\obj\Debug\gp_surgery.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\C#\gp_surgery\obj\Debug\gp_surgery.exe
+C:\Users\Brandon\C#\gp_surgery\obj\Debug\gp_surgery.pdb
