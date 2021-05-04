@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RKMvdmyx/+QJqnOkXWBn7jZIjHRX6S+Q4tLC0ikL791eeUNjIjCGjKV+AnOSfGtSnVhUVtjAeIg73M6PMAwkdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brandon\\C#\\chatroom\\client\\chatroom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brandon\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0\\system.threading.tasks.dataflow.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
